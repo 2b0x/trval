@@ -1,0 +1,19 @@
+.fixed_bg{ background-attachment:fixed;}
+.fixed_bg{ width:100%; background-position:center center; background-repeat:no-repeat; background-size:cover; min-height:100%; position:relative; z-index:3;}
+.huoba_bg_3_top{ z-index: 1; background-image:url(../img/huoba_top.jpg); }
+.huoba_bg_3_bottom{ background-image:url(../img/huoba_bottom.jpg);}
+.cangshan_bg_3_top{ z-index: 1; background-image:url(../img/cangshan_top.jpg); background-position:bottom center;}
+.cangshan_bg_3_bottom{ background-image:url(../img/cangshan_bottom.jpg);}
+.erhai_bg_3_top{ z-index: 1; background-image:url(../img/erhai_top.jpeg); background-position:bottom center; }
+.erhai_bg_3_bottom{ background-image:url(../img/erhai_bottom.jpg);}
+.zaran_bg_3_top{ z-index: 1; background-image:url(../img/zaran_top.jpg); }
+.zaran_bg_3_bottom{ background-image:url(../img/zaran_bottom.jpg);}
+.fixed_bg p{ margin: 0;} 
+.content_article_top_pic {margin: 0 auto;text-align: center;}
+.content_article_top_pic p{margin: 1rem 2rem ;}
+.content_article_top_pic img{margin: 2rem 0 0 !important;}
+.title{margin: 4rem 0 1rem 0 ;}
+.header_bar{position: absolute;width: 100%;height: 70px;display: block;position: fixed;z-index: 2;}
+.pic{margin: 0 auto;display: inline-block;	}
+p.p_end{margin-bottom: 6rem;}
+.title{margin: 8rem 0 5rem;text-align: center;color: #bb7832;}
